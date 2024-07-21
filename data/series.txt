@@ -17,3 +17,4 @@ category "series"
 	"Human: Plasma" 120
 	"Human: Atomic" 130
 	"Human: Afterburners" 140
+	"Hai: Atomic" 150
